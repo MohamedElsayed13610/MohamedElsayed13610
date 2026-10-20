@@ -22,11 +22,11 @@ I'm a **Full-Stack Developer** focused on building practical, responsive, and sc
 
 I enjoy turning real business requirements into working products, especially in **education, legal services, e-commerce, Arabic RTL experiences, and management systems**.
 
-- 💻 Building full-stack web applications and business platforms
-- 🧩 Working with frontend, backend, APIs, databases, and admin systems
+- 💻 Full-stack web applications and business platforms
+- 🧩 Frontend, backend, REST APIs, authentication, databases, and admin systems
 - 🌍 Based between **Egypt & Qatar**
-- 🌐 Experienced with **Arabic RTL** and responsive interfaces
-- ⚡ Focused on clean UX, practical architecture, and real-world workflows
+- 🌐 Arabic RTL and responsive web experiences
+- ⚡ Focused on useful products, clean UX, and practical workflows
 
 ---
 
@@ -35,15 +35,12 @@ I enjoy turning real business requirements into working products, especially in 
 <div align="center">
 
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend skills" />
 
 ### Backend & Database
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase" alt="Backend and database skills" />
 
 ### Tools & Deployment
-
 <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" alt="Tools and deployment" />
 
 </div>
@@ -52,58 +49,51 @@ I enjoy turning real business requirements into working products, especially in 
 
 ## ⭐ Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/MohamedElsayed13610/talent-academy-LMS1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElsayed13610&repo=talent-academy-LMS1&theme=tokyonight&hide_border=true" alt="Talent Academy LMS" />
+</a>
+<a href="https://github.com/MohamedElsayed13610/midlleeast-qa">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElsayed13610&repo=midlleeast-qa&theme=tokyonight&hide_border=true" alt="Middle East Law Firm" />
+</a>
+
+<a href="https://github.com/MohamedElsayed13610/fresh-cart">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElsayed13610&repo=fresh-cart&theme=tokyonight&hide_border=true" alt="FreshCart E-Commerce" />
+</a>
+<a href="https://github.com/MohamedElsayed13610/adasa">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElsayed13610&repo=adasa&theme=tokyonight&hide_border=true" alt="Adasa" />
+</a>
+
+</div>
+
 ### 🎓 Talent Academy LMS
 **Full-Stack Learning Management System**
 
-A comprehensive educational platform designed to manage students, courses, lessons, subscriptions, exams, attendance, reports, and administration workflows.
+A comprehensive educational platform covering student and admin workflows, courses, lessons, subscriptions, exams, attendance, reports, points, announcements, and academic management.
 
-**Highlights**
-- Student and admin experiences
-- Authentication and role-based access
-- Courses, lessons, live and recorded content
-- Online exams and answer handling
-- Attendance and subscription management
-- Reports and performance tracking
-- PostgreSQL-backed full-stack architecture
+**Stack:** `Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Docker`
 
-**Stack:** `Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL`
-
-> Repository currently private while the platform is being prepared for production.
+🔗 **Repository:** https://github.com/MohamedElsayed13610/talent-academy-LMS1
 
 ---
 
 ### ⚖️ Middle East & Partners Law Firm Platform
 **Professional Legal Services Platform**
 
-A bilingual legal platform combining a modern corporate website with online consultation and administration workflows.
+A bilingual Arabic/English law-firm platform with a public website, admin dashboard, online consultation workflow, file handling, scheduling, lawyer assignment, WhatsApp communication, and SEO-focused pages.
 
-**Highlights**
-- Arabic & English experience
-- Responsive RTL/LTR interfaces
-- Legal services, team, and news content
-- Admin dashboard
-- Multi-step consultation booking
-- File upload and consultation status workflows
-- WhatsApp communication flow
+**Stack:** `Next.js` `React` `TypeScript` `Supabase` `Tailwind CSS`
 
-**Stack:** `Next.js` `React` `TypeScript` `Supabase`
-
-🌐 **Live:** https://midlleeast-qa.vercel.app/
+🌐 **Live Website:** https://midlleeast-qa.vercel.app/  
+🔗 **Repository:** https://github.com/MohamedElsayed13610/midlleeast-qa
 
 ---
 
 ### 🛒 FreshCart E-Commerce
 **React E-Commerce Application**
 
-A complete e-commerce experience with authentication, product browsing, wishlist, cart, checkout, and orders.
-
-**Highlights**
-- Registration and login
-- Products, categories, and brands
-- Search and filtering
-- Wishlist and cart
-- Checkout and order history
-- Protected routes and API integration
+A complete e-commerce experience with authentication, product browsing, categories, brands, search, wishlist, cart, checkout, orders, protected routes, and API integration.
 
 **Stack:** `React` `Vite` `React Query` `Axios` `Formik` `Yup`
 
@@ -114,15 +104,7 @@ A complete e-commerce experience with authentication, product browsing, wishlist
 ### 📷 Adasa | عدسة
 **Arabic Photography & Content Platform**
 
-A responsive Arabic RTL content platform focused on photography articles and structured content discovery.
-
-**Highlights**
-- Arabic RTL interface
-- Dynamic articles
-- Search and category filtering
-- Pagination
-- Grid/list layouts
-- Related content and structured reading experience
+A responsive Arabic RTL platform for photography articles with dynamic content, search, categories, pagination, related content, and structured reading experiences.
 
 **Stack:** `Next.js` `React` `TypeScript`
 
@@ -131,9 +113,7 @@ A responsive Arabic RTL content platform focused on photography articles and str
 ---
 
 ### 💬 Social Media Application
-**React Social Platform**
-
-A social application with authentication, profiles, posts, comments, image uploads, protected routes, and pagination.
+A React social platform with authentication, profiles, posts, comments, image uploads, protected routes, pagination, and REST API integration.
 
 **Stack:** `React` `Vite` `REST APIs`
 
@@ -159,12 +139,12 @@ A social application with authentication, profiles, posts, comments, image uploa
 ## 🎯 What I Build
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning%20Management%20Systems-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Admin%20Dashboards-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/E--Commerce-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business%20Systems-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/API%20Integration-E11D48?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arabic%20RTL-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning%20Management%20Systems-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Admin%20Dashboards-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/E--Commerce-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Systems-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integration-E11D48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabic%20RTL-0891B2?style=for-the-badge" />
 </p>
 
 ---
@@ -182,7 +162,7 @@ A social application with authentication, profiles, posts, comments, image uploa
 
 <br/><br/>
 
-**Open to building useful products, solving real problems, and creating better web experiences.**
+**Building practical web products for real-world needs.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,45:2563EB,100:7C3AED" width="100%" alt="Footer" />
 
